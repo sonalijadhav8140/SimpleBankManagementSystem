@@ -8,7 +8,7 @@
 - [Setup and Installation](#setup-and-installation)  
 - [Usage](#usage)  
 - [Future Enhancements](#future-enhancements)
-- 
+
 ## Project Overview  
 The *Basic Bank Management System* is a simple *Core Java* console application that simulates basic banking operations. Users can *create an account, deposit and withdraw money, and check their balance. This project includes **validations and exception handling* to ensure secure transactions.  
 
